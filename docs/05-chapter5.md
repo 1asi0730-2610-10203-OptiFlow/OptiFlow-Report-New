@@ -31,7 +31,7 @@ Tecnologías base de la web utilizadas para estructurar el contenido de forma se
 **Vue.js Framework**
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.js_Logo_2.svg" alt="vue-logo" width="150">
+  <img src="https://images.seeklogo.com/logo-png/40/1/vue-js-logo-png_seeklogo-409842.png" alt="vue-logo" width="150">
 </p>
 
 Framework progresivo de JavaScript utilizado para la construcción de interfaces de usuario y aplicaciones de una sola página (SPA). Se basa en una arquitectura de componentes reactivos y un sistema de renderizado optimizado que facilita la integración con otros proyectos y el manejo eficiente del DOM virtual.
